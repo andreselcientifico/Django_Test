@@ -40,7 +40,8 @@ INSTALLED_APPS = [
 
     #My Apps
     'users.apps.UsersConfig',
-    'home.apps.HomeConfig'
+    'home.apps.HomeConfig',
+    'settings_profile.apps.SettingsProfileConfig'
 ]
 
 MIDDLEWARE = [
